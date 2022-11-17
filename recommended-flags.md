@@ -199,7 +199,7 @@ Others:
 	* Blocks Geolocation, you might need to enable it if you are going to use Maps
 </p></details>
 
-details><summary>Blink</summary><p>
+<details><summary>Blink</summary><p>
 
 | Name | Description |
 | :--- | :---------- |
