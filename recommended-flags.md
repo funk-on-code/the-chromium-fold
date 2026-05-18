@@ -247,10 +247,6 @@ Remove `--js-flags=--jitless`
 
 Remove `--isolation-by-default`
 
-#### Mega.nz
-
-Remove `0x002f` from `--cipher-suite-blacklist`
-
 #### Microphone and camera
 
 Remove `--use-fake-device-for-media-stream`
